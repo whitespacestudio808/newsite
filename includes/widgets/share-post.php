@@ -1,0 +1,1 @@
+<p class="share-post clear">Share Of Like Post: { sharing widget }</p>
